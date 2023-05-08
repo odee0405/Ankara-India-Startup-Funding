@@ -12,3 +12,9 @@ India has become an attractive location for investors and has seen a number of s
 - Does the number of founders affect the funding received?
 - At what stage do startups receive the most funding?
 - Does the location affect the funding received?
+
+## Hypothesis
+
+NULL : Technological industries do not have a higher success rate of being funded
+
+ALTERNATE : Technological industries have a higher success rate of being funded
