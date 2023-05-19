@@ -9,9 +9,15 @@ India has become an attractive location for investors and has seen a number of s
 
 - Does the age of the  startup affect the funding received?
 - Which sectors received the most funding?
-- Does the number of founders affect the funding received?
+- Does the number of founders affect the funding received?**
 - At what stage do startups receive the most funding?
 - Does the location affect the funding received?
+- Which sector received the lowest amount of funding?
+- Which HeadQuarters recorded the highest amount of funding received?
+- What is the average amount of funding received in top ten sectors?
+- How many companies received funding in each year?
+
+
 
 ## Hypothesis
 
