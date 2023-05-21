@@ -7,15 +7,16 @@ For this project, we seek to analyse funding received by startups in India. The 
 ## Business Understanding
 India has become an attractive location for investors and has seen a number of successful startups achieve the coveted "unicorn" status. To guide our quest for the best course of action as an upcoming startup, we asked a few questions which we will attempt to answer using the data on hand.
 
-- Does the age of the  startup affect the funding received?
-- Which sectors received the most funding?
-- Does the number of founders affect the funding received?**
-- At what stage do startups receive the most funding?
-- Does the location affect the funding received?
-- Which sector received the lowest amount of funding?
-- Which HeadQuarters recorded the highest amount of funding received?
-- What is the average amount of funding received in top ten sectors?
-- How many companies received funding in each year?
+1. Which company received the most funding?
+2. Which company received the lowest amount of funding?
+3. Which Sector received the highest amount of funding?
+4. Which Sector received the lowest amount of funding?
+5. Which HeadQuarters recorded the highest amount of funding received?
+6. What is the total amount funding received each year?
+7. what is the average amount received in 2019, 2020 and 2021
+8. How many companies were funded in the year 2019, 2020 and 2021?
+9. At what stage do startups receive the most funding?
+10. Does the location affect the funding received?.
 
 
 
