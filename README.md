@@ -25,3 +25,8 @@ India has become an attractive location for investors and has seen a number of s
 NULL : Technological industries do not have a higher success rate of being funded
 
 ALTERNATE : Technological industries have a higher success rate of being funded
+
+# Summary 
+| Code      | Name        | Published Article |  Deployed App |
+|-----------|-------------|:-------------:|------:|
+|LP1 | Data Analysis| [India Startup Funding Analysis](https://www.linkedin.com/pulse/india-startup-funding-analysis-kwame-asenso-okyere/?trackingId=3mn9RrhyQfKN1Y3UEKqpxg%3D%3D)|[India Startup Funding Analysis](https://app.powerbi.com/groups/me/reports/5d90a0b1-0b46-47be-a805-ad34c328dbc1?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |
